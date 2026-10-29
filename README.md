@@ -6,7 +6,7 @@
 
 **May 2020 – July 2025** · 17 sectors · 11 cities · 7,830 weekly records
 
-[🚀 **Live Dashboard**](https://kjvas5auwmrsrtzpw7xioh.streamlit.app/) · [📓 Notebook](Final_Project_Unit3_Saudi_Card_Payments(1).ipynb)
+[🚀 **Live Dashboard**](https://kjvas5auwmrsrtzpw7xioh.streamlit.app/) · [📓 Notebook]([Final_Project_Unit3_Saudi_Card_Payments(1).ipynb](https://github.com/nnnoufff/-Saudi-Card-Payments-2021-2024/blob/main/Final_Project_Unit3_Saudi_Card_Payments%20(1).ipynb))
 
 </div>
 
