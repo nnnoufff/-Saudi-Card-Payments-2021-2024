@@ -6,7 +6,7 @@
 
 **May 2020 – July 2025** · 17 sectors · 11 cities · 7,830 weekly records
 
-[🚀 **Live Dashboard**](https://YOUR-APP-NAME.streamlit.app) · [📓 Notebook](Final_Project_Unit3_Saudi_Card_Payments.ipynb)
+[🚀 **Live Dashboard**]([https://YOUR-APP-NAME.streamlit.app](https://kjvas5auwmrsrtzpw7xioh.streamlit.app/)) · [📓 Notebook](Final_Project_Unit3_Saudi_Card_Payments.ipynb)
 
 </div>
 
